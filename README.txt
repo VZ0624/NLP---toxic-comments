@@ -6,10 +6,12 @@ Goal: Build an accurate Multi-class classifier that can differentiate between 6 
 
 Bar plots
 Word Cloud
-Feature Engineering
+
+- Feature Engineering
 Clean data
 N-grams
-Modeling
+
+- Modeling
 Logistic Regression
 LSTM w/ Glove embedding
 
